@@ -15,4 +15,6 @@ f = figure()
 
 #create line plot
 f.line(x,y)
+
+#write the plot in the figure object
 show(f)
