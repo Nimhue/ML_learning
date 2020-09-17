@@ -16,5 +16,11 @@ f = figure()
 #create line plot
 f.line(x,y)
 
+#create triangle based line plot
+#f.triangle(x,y)
+
+#create circle based line plot
+#f.circle(x,y)
+
 #write the plot in the figure object
 show(f)
